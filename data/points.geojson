@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "name": "memorial_points",
+  "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "siracusa",
+        "name": "Siracusa",
+        "type": "city",
+        "description": "XXXX",
+        "audio_url": "",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15.19288667801232, 37.179305076835767]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "lago",
+        "name": "Lago",
+        "type": "landmark",
+        "description": "XXXXX",
+        "audio_url": "",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.937192767822836, 37.325873023429487]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "montagne",
+        "name": "Montagne",
+        "type": "recording",
+        "description": "XXXX",
+        "audio_url": "",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.857950313957078, 37.153701772367356]
+      }
+    }
+  ]
+}
